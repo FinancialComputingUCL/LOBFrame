@@ -18,6 +18,11 @@ pip3 install -r requirements.txt
 All the code in this repository exploits [LOBSTER](https://lobsterdata.com) data. To have an overview on their structure, please refer
 to the official documentation available at the following [link](https://lobsterdata.com/info/DataStructure.php).
 
+# Preliminary operations
+Before starting any experiment:
+- Open the ```lightning_batch_gd.py``` file and insert the Weights & Biases project's name and API key.
+- Open the ```utils.py``` file and set the standard values of the parameters.
+
 ## Usage
 To start an experiment from scratch, you need to follow these steps:
 - Place the raw data in the `data/nasdaq/raw` folder. The data must be in the LOBSTER format and each folder must be named with the asset's name (e.g. AAPL for Apple stock).
