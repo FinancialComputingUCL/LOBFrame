@@ -60,14 +60,14 @@ We now provide the typical structure of a folder before an experiment's run:
 ├── README.md
 ├── data
 │   └── nasdaq
-│       ├── raw_data
+│    ├── raw_data
 │             ├── <Stock1_Name>
-│             └──<Stock1_Name>
-│       ├── scaled_data
+│             └── <Stock1_Name>
+│    ├── scaled_data
 │             ├── test
 │             ├── training
 │             └── validation
-│       └── unscaled_data
+│    └── unscaled_data
 │             ├── test
 │             ├── training
 │             └── validation
@@ -82,26 +82,26 @@ We now provide the typical structure of a folder before an experiment's run:
 ├── main.py
 ├── models
 │   ├── AxialLob
-│         └──axiallob.py
+│         └── axiallob.py
 │   ├── CNN1
-│         └──cnn1.py
+│         └── cnn1.py
 │   ├── CNN2
-│         └──cnn2.py
+│         └── cnn2.py
 │   ├── DeepLob
-│         └──deeplob.py
+│         └── deeplob.py
 │   ├── DLA
-│         └──DLA.py
+│         └── DLA.py
 │   ├── iTransformer
-│         └──itransformer.py
+│         └── itransformer.py
 │   ├── LobTransformer
-│         └──lobtransformer.py
+│         └── lobtransformer.py
 │   ├── TABL
-│         ├──bin_nn.py
+│         ├── bin_nn.py
 │         ├── bin_tabl.py
-│         ├──bl_layer.py
-│         └──tabl_layer.py
+│         ├── bl_layer.py
+│         └── tabl_layer.py
 │   ├── Transformer
-│         └──transformer.py
+│         └── transformer.py
 ├── optimizers
 │   ├── executor.py
 │   └── lightning_batch_gd.py
