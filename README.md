@@ -60,14 +60,14 @@ We now provide the typical structure of a folder before an experiment's run:
 ├── README.md
 ├── data
 │   └── nasdaq
-│    ├── raw_data
+│        ├── raw_data
 │             ├── <Stock1_Name>
 │             └── <Stock1_Name>
-│    ├── scaled_data
+│        ├── scaled_data
 │             ├── test
 │             ├── training
 │             └── validation
-│    └── unscaled_data
+│        └── unscaled_data
 │             ├── test
 │             ├── training
 │             └── validation
