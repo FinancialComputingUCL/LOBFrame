@@ -1,0 +1,48 @@
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-04_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-04_34200000_57600000_orderbook_10.csv skipped. Initializing rolling z-score normalization.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-05_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-05_34200000_57600000_orderbook_10.csv skipped. Initializing rolling z-score normalization.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-06_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-06_34200000_57600000_orderbook_10.csv skipped. Initializing rolling z-score normalization.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-07_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-07_34200000_57600000_orderbook_10.csv skipped. Initializing rolling z-score normalization.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-10_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-10_34200000_57600000_orderbook_10.csv skipped. Initializing rolling z-score normalization.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-11_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-11_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-12_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-12_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-13_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-13_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-17_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-17_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-18_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-18_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-19_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-19_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-20_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-20_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-21_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-21_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-24_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-24_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-25_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-25_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-26_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-26_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-27_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-27_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-04-28_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-04-28_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-05-01_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-05-01_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-05-02_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-05-02_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-05-03_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-05-03_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-05-04_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-05-04_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-05-05_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-05-05_34200000_57600000_orderbook_10.csv completed.
+Warning: unusual opening times in ./data/nasdaq/raw/XYZ/XYZ_2067-05-08_34200000_57600000_orderbook_10.csv: 9.583333333333334 - 16.1.
+./data/nasdaq/raw/XYZ/XYZ_2067-05-08_34200000_57600000_orderbook_10.csv completed.

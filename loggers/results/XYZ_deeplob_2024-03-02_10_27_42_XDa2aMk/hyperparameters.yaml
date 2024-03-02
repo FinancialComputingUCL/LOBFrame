@@ -1,0 +1,37 @@
+general:
+  dataset: nasdaq
+  horizons:
+  - 10
+  - 50
+  - 100
+  include_target_stock_in_training: true
+  model: deeplob
+  normalization_window: 5
+  stages:
+  - data_processing
+  target_stocks:
+  - XYZ
+  targets_type: raw
+  test_ratio: 0.2
+  training_ratio: 0.6
+  training_stocks:
+  - XYZ
+  validation_ratio: 0.2
+model:
+  balanced_sampling: false
+  batch_size: 32
+  epochs: 100
+  history_length: 100
+  learning_rate: 6.0e-05
+  lighten: false
+  num_workers: 5
+  patience: 10
+  prediction_horizon: 10
+  shuffling_seed: 428
+  threshold: 0.0
+trading:
+  initial_cash: 1000
+  mid_side_trading: mid_to_mid
+  probability_threshold: 0.65
+  simulation_type: with_fees
+  trading_fee: 0.0001
