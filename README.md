@@ -1,12 +1,12 @@
 # LOBFrame
 
-We release `LOBFrame', a novel, open-source code base which presents a renewed way to process large-scale LOB data. This framework integrates all the latest cutting-edge insights from scientific research into a cohesive system. Its strength lies in the comprehensive nature of the implemented pipeline, which includes the data transformation and processing stage, an ultra-fast implementation of the training, validation, and testing steps, as well as the evaluation of the quality of a model's outputs through trading simulations. Moreover, it offers flexibility by accommodating the integration of new models, ensuring adaptability to future advancements in the field.
+We release `LOBFrame', a novel, open-source code base which presents a renewed way to process large-scale Limit Order Book (LOB) data. This framework integrates all the latest cutting-edge insights from scientific research (see [Lucchese et al.](https://www.sciencedirect.com/science/article/pii/S0169207024000062), [Prata et al.](https://arxiv.org/pdf/2308.01915.pdf)) into a cohesive system. Its strength lies in the comprehensive nature of the implemented pipeline, which includes the data transformation and processing stage, an ultra-fast implementation of the training, validation, and testing steps, as well as the evaluation of the quality of a model's outputs through trading simulations. Moreover, it offers flexibility by accommodating the integration of new models, ensuring adaptability to future advancements in the field.
 
 ## Introduction
 
 In this tutorial, we show how to replicate the experiments presented in the paper titled __"Deep Limit Order Book Forecasting: A microstructural guide"__.
 
-Before starting, please remember to <span style="color: red;">**ALWAYS CITE OUR WORK**</span> as follows:
+Before starting, please remember to **ALWAYS CITE OUR WORK** as follows:
 
 ## Pre-requisites
 
