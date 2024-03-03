@@ -22,8 +22,8 @@ to the official documentation available at the following [link](https://lobsterd
 
 # Preliminary operations
 Before starting any experiment:
-- Open the ```lightning_batch_gd.py``` file and insert the Weights & Biases project's name and API key.
-- Open the ```utils.py``` file and set the standard values of the parameters.
+- Open the ```lightning_batch_gd.py``` file and insert the [Weights & Biases](https://wandb.ai/site) project's name and API key.
+- Open the ```utils.py``` file and set the default values of the parameters.
 
 ## Usage
 To start an experiment from scratch, you need to follow these steps:
