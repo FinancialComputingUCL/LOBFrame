@@ -261,7 +261,7 @@ class BatchGDManager:
 
     def delete_run(self):
         api = wandb.Api()
-        project_path = "<Specify here the name of WB project>" # Specify here the name of WB project.
+        project_path = "<Specify here the name of WB project>" # TODO: Specify here the name of WB project.
         runs = api.runs(path=project_path)
         print('Deleting runs...')
         while len(runs) < 1:
@@ -295,7 +295,7 @@ class BatchGDManager:
         )
         early_stopping_callback = EarlyStopping("val_loss", patience=self.patience, min_delta=0.003)
 
-        os.environ["WANDB_API_KEY"] = ""  # Insert API key
+        os.environ["WANDB_API_KEY"] = ""  # TODO: Insert API key
         os.environ["WANDB__SERVICE_WAIT"] = "300"
         try:
             wandb_logger = WandbLogger(

@@ -8,6 +8,17 @@ In this tutorial, we show how to replicate the experiments presented in the pape
 
 Before starting, please remember to **ALWAYS CITE OUR WORK** as follows:
 
+```
+@misc{briola2024deep,
+      title={Deep Limit Order Book Forecasting}, 
+      author={Antonio Briola and Silvia Bartolucci and Tomaso Aste},
+      year={2024},
+      eprint={2403.09267},
+      archivePrefix={arXiv},
+      primaryClass={q-fin.TR}
+}
+```
+
 ## Pre-requisites
 
 Install the required packages:
@@ -22,7 +33,7 @@ to the official documentation available at the following [link](https://lobsterd
 
 # Preliminary operations
 Before starting any experiment:
-- Open the ```lightning_batch_gd.py``` file and insert the [Weights & Biases](https://wandb.ai/site) project's name and API key.
+- Open the ```lightning_batch_gd.py``` file and insert the [Weights & Biases](https://wandb.ai/site) project's name and API key (search for TODOs).
 - Open the ```utils.py``` file and set the default values of the parameters.
 
 ## Usage
