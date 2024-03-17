@@ -9,13 +9,11 @@ In this tutorial, we show how to replicate the experiments presented in the pape
 Before starting, please remember to **ALWAYS CITE OUR WORK** as follows:
 
 ```
-@misc{briola2024deep,
-      title={Deep Limit Order Book Forecasting}, 
-      author={Antonio Briola and Silvia Bartolucci and Tomaso Aste},
-      year={2024},
-      eprint={2403.09267},
-      archivePrefix={arXiv},
-      primaryClass={q-fin.TR}
+@article{briola2024deep,
+  title={Deep Limit Order Book Forecasting},
+  author={Briola, Antonio and Bartolucci, Silvia and Aste, Tomaso},
+  journal={arXiv preprint arXiv:2403.09267},
+  year={2024}
 }
 ```
 
