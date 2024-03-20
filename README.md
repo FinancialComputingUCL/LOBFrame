@@ -137,3 +137,15 @@ We now provide the typical structure of a folder before an experiment's run:
 ├── results
 └── utils.py
 ```
+
+# License
+
+Copyright 2024 Antonio Briola, Silvia Bartolucci, Tomaso Aste.
+
+Licensed under the CC BY-NC-ND 4.0 Licence (the "Licence"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:
+
+```
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+```
+
+Software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the provided link for the specific language governing permissions and limitations under the License.
