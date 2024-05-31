@@ -6,7 +6,7 @@ We release `LOBFrame` (see the two papers [`Deep Limit Order Book Forecasting`](
 
 In this tutorial, we show how to replicate the experiments presented in the two papers titled __"Deep Limit Order Book Forecasting: A microstructural guide"__ and __"HLOB - Information Persistence and Structure in Limit Order Books"__.
 
-Before starting, please remember to **ALWAYS CITE OUR WORK** as follows:
+Before starting, please remember to **ALWAYS CITE OUR WORKS** as follows:
 
 ```
 @article{briola2024deep,
