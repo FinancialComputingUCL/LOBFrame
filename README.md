@@ -66,7 +66,7 @@ To start an experiment from scratch, you need to follow these steps:
   ```bash
     python3 main --training_stocks "CSCO" --target_stocks "CSCO" --stages "torch_dataset_preparation,torch_dataset_preparation_backtest" --prediction_horizon 10
   ```
-- If you are planning to use the HLOB model (see the paper titled [`HLOB - Structure and Persistence of Information in Limit Order Books'](https://arxiv.org/abs/2405.18938)), it is mandatory to execute the following command:
+- If you are planning to use the HLOB model (see the paper titled [`HLOB - Structure and Persistence of Information in Limit Order Books`](https://arxiv.org/abs/2405.18938)), it is mandatory to execute the following command:
   ```bash
     python3 main --training_stocks "CSCO" --target_stocks "CSCO" --stages "complete_homological_structures_preparation"
   ```
