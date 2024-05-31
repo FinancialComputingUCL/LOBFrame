@@ -74,7 +74,7 @@ To start an experiment from scratch, you need to follow these steps:
   ```bash
     python3 main --training_stocks "CSCO" --target_stocks "CSCO" --stages "training"
   ```
-  Please notice that the currently available models are:
+  Currently available models are:
     - deeplob
     - transformer
     - itransformer
