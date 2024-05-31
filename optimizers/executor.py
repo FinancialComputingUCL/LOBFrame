@@ -12,6 +12,7 @@ from models.CNN1.cnn1 import CNN1
 from models.CNN2.cnn2 import CNN2
 from models.AxialLob.axiallob import AxialLOB
 from models.TABL.bin_tabl import BiN_BTABL, BiN_CTABL
+from models.CompleteHCNN.complete_hcnn import Complete_HCNN
 from optimizers.lightning_batch_gd import BatchGDManager
 from loggers import logger
 from utils import create_tree, get_training_test_stocks_as_string
@@ -50,6 +51,9 @@ class Executor:
             self.model = BiN_CTABL(120, 40, 100, 5, 120, 5, 3, 1)
         elif general_hyperparameters["model"] == "axiallob":
             self.model = AxialLOB()
+        elif general_hyperparameters["model"] == "hlob":
+            homological_structures = torch.load(f"./torch_datasets/threshold_{model_hyperparameters['threshold']}/batch_size_{model_hyperparameters['batch_size']}/training_{self.training_stocks_string}_test_{self.test_stocks_string}/complete_homological_structures.pt")
+            self.model = Complete_HCNN(lighten=model_hyperparameters["lighten"], homological_structures=homological_structures)
         
         if self.torch_dataset_preparation:
             # Prepare the training dataloader.

@@ -470,7 +470,7 @@ def parse_args() -> Any:
         type=str,
         default="data_processing",
         help="Stage(s) to be run (to be expressed in this format: 'training,evaluation').",
-    )  # data_processing | torch_dataset_preparation | torch_dataset_preparation_backtest | training,evaluation | backtest,post_trading_analysis
+    )  # data_processing | torch_dataset_preparation | torch_dataset_preparation_backtest | complete_homological_structures_preparation | training,evaluation | backtest,post_trading_analysis
     parser.add_argument(
         "--include_target_stock_in_training",
         type=str2bool,

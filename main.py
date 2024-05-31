@@ -9,6 +9,7 @@ from utils import (
     parse_args,
     create_hyperparameters_yaml,
 )
+from data_processing.complete_homological_utils import get_complete_homology
 
 if __name__ == "__main__":
     # Parse input arguments.
@@ -84,6 +85,9 @@ if __name__ == "__main__":
         executor = Executor(
             experiment_id, general_hyperparameters, model_hyperparameters, torch_dataset_preparation=False, torch_dataset_preparation_backtest=True
         )
+
+    if "complete_homological_structures_preparation" in general_hyperparameters["stages"]:
+        get_complete_homology(general_hyperparameters=general_hyperparameters, model_hyperparameters=model_hyperparameters)
 
     # For the 'training' and 'evaluation' stages, instantiate the executor with proper arguments.
     if (
