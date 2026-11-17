@@ -1,4 +1,10 @@
-# LOBFrame
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/logo_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo/logo_light.svg">
+    <img alt="LOBFrame - Limit Order Book forecasting framework" src="assets/logo/logo_light.svg" width="460">
+  </picture>
+</p>
 
 We release `LOBFrame` (see the two papers [`Deep Limit Order Book Forecasting`](https://arxiv.org/abs/2403.09267) and [`HLOB - Information Persistence and Structure in Limit Order Books`](https://arxiv.org/abs/2405.18938)), a novel, open-source code base which presents a renewed way to process large-scale Limit Order Book (LOB) data. This framework integrates all the latest cutting-edge insights from scientific research (see [Lucchese et al.](https://www.sciencedirect.com/science/article/pii/S0169207024000062), [Prata et al.](https://arxiv.org/pdf/2308.01915.pdf)) into a cohesive system. Its strength lies in the comprehensive nature of the implemented pipeline, which includes the data transformation and processing stage, an ultra-fast implementation of the training, validation, and testing steps, as well as the evaluation of the quality of a model's outputs through trading simulations. Moreover, it offers flexibility by accommodating the integration of new models, ensuring adaptability to future advancements in the field.
 
@@ -174,9 +180,19 @@ We now provide the typical structure of a folder before an experiment's run:
 └── utils.py
 ```
 
+## Star History
+
+<a href="https://star-history.com/#FinancialComputingUCL/LOBFrame&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FinancialComputingUCL/LOBFrame&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FinancialComputingUCL/LOBFrame&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FinancialComputingUCL/LOBFrame&type=Date" />
+  </picture>
+</a>
+
 # License
 
-Copyright 2024 Antonio Briola, Silvia Bartolucci, Tomaso Aste.
+Copyright 2026 Antonio Briola, Silvia Bartolucci, Tomaso Aste.
 
 Licensed under the CC BY-NC-ND 4.0 Licence (the "Licence"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:
 
