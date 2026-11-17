@@ -192,7 +192,7 @@ We now provide the typical structure of a folder before an experiment's run:
 
 # License
 
-Copyright 2024 Antonio Briola, Silvia Bartolucci, Tomaso Aste.
+Copyright 2026 Antonio Briola, Silvia Bartolucci, Tomaso Aste.
 
 Licensed under the CC BY-NC-ND 4.0 Licence (the "Licence"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:
 
